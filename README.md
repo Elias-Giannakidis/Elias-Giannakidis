@@ -1,4 +1,1 @@
-Hi i'm Elias.
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Elias-Giannakidis)](https://github.com/anuraghazra/github-readme-stats)
-
+![GitHub Background](https://user-images.githubusercontent.com/58752838/103463882-571da500-4d38-11eb-8eee-05efabea566d.png)
