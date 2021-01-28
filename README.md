@@ -5,7 +5,7 @@
 ✈  Open for work!   
 🎲 Game developer talent!   
 🧬 Neural network engineering!    
-🔋  Android app deneloper!       
+🔋  Android app developer!       
 📖 I am continuing learnig!   
     
 🙂Contact me!     
