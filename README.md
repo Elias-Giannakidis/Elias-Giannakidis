@@ -3,7 +3,7 @@
 🖐 Hi! I'm Elias!   
         
 ✈  Open for work!   
-🎲 Game developer talent!   
+🎲 Game developer!   
 🧬 Neural network engineering!    
 🔋  Android app developer!       
 📖 I am continuing learnig!   
