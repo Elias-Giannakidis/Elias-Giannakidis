@@ -1,12 +1,20 @@
-![GitHub Background](https://user-images.githubusercontent.com/58752838/103464019-6fda8a80-4d39-11eb-926f-fd2bcc095b48.png)
+# 👋 Hi, I’m Elias
 
-🖐 Hi! I'm Elias!   
-        
-✈  Open for work!   
-🎲 Game developer!   
-🧬 Neural network engineering!    
-🔋  Android app developer!       
-📖 I am continuing learnig!   
+I build **industrial IIoT software** and **small practical mobile apps**, focusing on the whole product — not just the code.
+
+## 🔧 What I work with
+- 🔌 **Protocols:** Modbus · OPC UA · MQTT · Kafka · BACnet  
+- 📱 **Apps:** Small mobile & daily-use applications  
+- 🛠 **Tech:** TypeScript · Node.js · Python · Java  
+
+## 🧠 How I think
+- Product-driven, end-to-end mindset  
+- Strong opinions about usability & reliability  
+- Creativity + problem solving, especially in industrial systems  
+
+## 🚀 Focus
+Clean architecture, real-world constraints, and software that actually gets used.
+
     
 🙂Contact me!     
 Gmail: hl.giannakidis@gmail.com
